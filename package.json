@@ -1,0 +1,18 @@
+{
+  "name": "buildandrun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [],
+  "bin": {
+    "br": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kleur": "^4.1.5"
+  }
+}

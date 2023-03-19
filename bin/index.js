@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const cp = require('child_process')
 const fs = require('fs')
 const kleur = require('kleur')

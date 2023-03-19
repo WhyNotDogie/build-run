@@ -1,9 +1,9 @@
 {
-  "name": "buildandrun",
+  "name": "@whynotdogie/buildandrun",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "files": [],
+  "files": ["index.js"],
   "bin": {
     "br": "bin/index.js"
   },
